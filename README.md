@@ -6,7 +6,7 @@ A simple machine learning web app to detect whether an email is **Spam** or **No
 ---
 
 ## 🚀 Live Demo
-You can try the app here: **[Streamlit App Link](https://your-streamlit-link)**  
+You can try the app here: **[Streamlit App Link](https://spam-application.streamlit.app/)**  
 _(Replace with your actual Streamlit Cloud URL)_
 
 ---
